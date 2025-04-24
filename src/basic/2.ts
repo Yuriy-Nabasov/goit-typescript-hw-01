@@ -9,5 +9,6 @@
 
 let person: [string, number] = ["Max", 21];
 
-console.log(`Завдання 2:`);
-console.log(person);
+console.log(`Базові типи. Завдання 2:`);
+console.log(`person:`, person);
+console.log(` `);

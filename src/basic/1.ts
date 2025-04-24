@@ -19,9 +19,10 @@ const callback = (a: number): number => {
   return 100 + a;
 };
 
-console.log(`Завдання 1:`);
+console.log(`Базові типи. Завдання 1:`);
 console.log(`age =`, age);
 console.log(`username =`, username);
 console.log(`toggle =`, toggle);
 console.log(`empty =`, empty);
 console.log(`callback =`, callback(10));
+console.log(` `);
