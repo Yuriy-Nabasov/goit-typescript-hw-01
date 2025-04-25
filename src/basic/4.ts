@@ -2,16 +2,16 @@
 
 //? У вас є такі функції JavaScript:
 
-// функція  showMessage ( повідомлення ) {
-//    консоль . журнал (повідомлення);
+// function  showMessage ( message ) {
+//    console.log (message);
 // }
 
-// функція  calc ( num1, num2 ) {
+// function  calc ( num1, num2 ) {
 //    return num1 + num2;
 // }
 
-// функція  customError () {
-//    викинути  нову  помилку ( 'Помилка' );
+// function  customError () {
+//    throw new Error('Error');
 // }
 
 //? Як ви вкажете типи аргументів і значення цих функцій, що повертаються?

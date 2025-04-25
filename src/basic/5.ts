@@ -4,16 +4,16 @@
 //? і повертає логічне значення, яке вказує, чи це день робочий чи вихідний.
 
 // enum  DayOfWeek  {
-//   понеділок ,
-//   вівторок ,
-//   середа ,
-//   четвер ,
-//   п'ятниця ,
-//   субота ,
-//   неділя
+// Monday,
+// Tuesday,
+// Wednesday,
+// Thursday,
+// Friday,
+// Saturday,
+// Sunday
 // }
 
-// const  isWeekend  =  ( день )  =>  {
+// const  isWeekend  =  ( day )  =>  {
 // }
 
 enum DayOfWeek {

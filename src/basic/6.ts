@@ -4,19 +4,19 @@
 //? Зверніть увагу, що адреса є необов'язковою властивістю.
 
 // const mango = {
-//     назва: "Манго" ,
-//     вік: 30,
-//     електронна адреса: 'john@example.com' ,
-//     адреса: {
-//         місто: 'Нью-Йорк' ,
-//         країна: 'США'
-//     }
+//   name: "Mango",
+//   age: 30,
+//   email: "john@example.com",
+//   address: {
+//     city: "New York",
+//     country: "USA",
+//   },
 // };
 
 // const poly = {
-//     назва: "Манго" ,
-//     вік: 30,
-//     електронна адреса: "john@example.com"
+//   name: "Mango",
+//   age: 30,
+//   email: "john@example.com",
 // };
 
 interface User {
